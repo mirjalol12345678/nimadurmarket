@@ -1,0 +1,64 @@
+body{
+    background:linear-gradient(#3884,black);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.divv{
+    width: 290px;
+    height: 330px;
+    border: 2px solid rgb(127, 82, 26);
+    border-radius: 10px;
+    box-shadow: black 6px 13px 23px 1px;
+    position: relative;
+    left: 575px;
+    top: 130px;
+}
+
+h4{
+    color: rgb(18, 18, 100);
+    position: relative;
+    left: 23px;
+    top: 70px;
+}
+
+h1{
+    position: relative;
+    left: 75px;
+}
+
+input{
+    padding: 7px;
+    background-color: rgb(15, 15, 103);
+    border-radius: 10px;
+    color: rgb(187, 255, 0);
+    position: relative;
+    left: 54px;
+    gap: 10px;
+}
+
+.ism{
+    position: relative;
+    top: 10px;
+}
+
+button{
+    width: 180px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    position: relative;
+    left: 53px;
+    top: 40px;
+}
+
+header h1{
+    position: relative;
+    right: 350px;
+    display: flex;
+    text-align: end;
+    justify-content: space-around;
+    right: 0;
+    font-size: 20px;
+}

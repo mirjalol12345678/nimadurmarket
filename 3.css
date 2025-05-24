@@ -1,0 +1,82 @@
+.tolov {
+    color: rgb(162, 115, 207);
+}
+
+.pul {
+    width: 200px;
+    border-radius: 10px;
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+
+.naqt {
+    position: relative;
+    left: 800px;
+    bottom: 203px;
+    border: 2px solid black;
+    background: linear-gradient(rgb(66, 139, 22), rgb(27, 27, 75));
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.karta {
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+    left: 330px;
+    top: 100px;
+    background: linear-gradient(rgb(66, 139, 22), rgb(27, 27, 75));
+}
+
+.karta input {
+    border-radius: 7px;
+    background-color: goldenrod;
+    color: white;
+    height: 35px;
+    width: 200px;
+    gap: 10px;
+    position: relative;
+
+}
+
+.bttn {
+    background-color: green;
+    border: 0;
+    border-radius: 7px;
+    width: 129px;
+    height: 40px;
+    color: white;
+    position: relative;
+    top: 40px;
+    left: -28px;
+}
+
+.card {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30px;
+    position: relative;
+    left: 110px;    
+    top: 10px;
+}
+
+.borderofcard {
+    position: relative;
+    top: 20px;
+    right: 65px;
+}
+
+body {
+    background-color: rgb(139, 56, 21);
+}
+
+.cash{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 100px;
+}

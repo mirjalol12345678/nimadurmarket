@@ -1,0 +1,142 @@
+.name {
+    color: rgb(153, 0, 255);
+    transform: translate(600px);
+}
+
+.box {
+    border: 2px solid blueviolet;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    overflow: hidden;
+    color: green;
+    background-color: blueviolet;
+    transition: 3s;
+}
+
+.button:hover {
+    background-color: blue;
+    color: rgb(107, 23, 23);
+    position: relative;
+    right: 95px;
+    box-shadow: 5px 10px 50px 10px black;
+    width: 400px;
+    height: 140px;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+    background-color: rgb(0, 255, 0);
+    color: white;
+    border: none;
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 30px;
+    transform: translate(620px);
+    transition: 0.3xs;
+}
+
+a {
+    text-decoration: none;
+}
+
+.men {
+    text-decoration: none;
+}
+
+.navla {
+    transform: translate(30px);
+}
+
+.navla2 {
+    transform: translate(30px);
+}
+
+.navla3 {
+    transform: translate(50px);
+}
+
+header {
+    display: flex;
+    text-align: end;
+    justify-content: space-around;
+    position: relative;
+    right: 50px;
+}
+
+header h1 {
+    color: rgb(83, 222, 225);
+    font-style: unset;
+    position: relative;
+    font-size: 30px;
+    right: 0;
+    text-decoration: none;
+    column-gap: 6px;
+}
+
+body{
+    background:linear-gradient(black,white,black);
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.we{
+    color: yellowgreen;
+    transform: translate(10px);
+    transition: 3s;
+}
+
+.box:hover{
+    background:none;
+}
+
+.box,.we:hover{
+    color: rgb(255, 0, 0);
+}
+
+.navv:hover{
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.navv{
+    transition: 3s;
+}
+
+.navla:hover{
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.navla{
+    transition: 3s;
+}
+
+.navla2:hover{
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.navla2{
+    transition: 3s;
+}
+
+.navla3:hover{
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.navla3{
+    transition: 3s;
+} 

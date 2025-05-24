@@ -1,0 +1,14 @@
+.h1{
+    color: red;
+}
+
+button{
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 40px;
+    transform: translate(600px);
+}

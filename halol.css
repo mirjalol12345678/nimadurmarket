@@ -1,0 +1,57 @@
+.box1{
+    border: 2px solid rgb(61, 41, 10);
+    width: 240px;
+    border-radius: 10px;
+    position: relative;
+    left: 30px;
+}
+
+.rasm{
+    position: relative;
+    left: 3px;
+    border-bottom: 2px solid rgb(61, 41, 10);
+}
+
+.name{
+    position: relative;
+    left: 25px;
+}
+
+.puli{
+    position: relative;
+    left: 80px;
+}
+
+.puli2{
+    position: relative;
+    left: 55px;
+}
+
+.ee{
+    position: relative;
+    left: 55px;
+}
+
+.rasm2{
+    position: relative;
+    left: 36px;
+    height: 227px;
+    width: 180px;
+    border-bottom: 2px solid rgb(61, 41, 10);
+}
+
+.xx{
+    position: relative;
+    left: 350px;
+    bottom: 432px;
+}
+
+.btn{
+    border-radius: 7px;
+    background-color: green;
+    border: 0;
+    color: white;
+    height: 30px;
+    position: relative;
+    left: 60px;
+}

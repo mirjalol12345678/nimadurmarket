@@ -1,0 +1,77 @@
+.tel{
+    height: 200px;
+    border-bottom: 2px solid rgb(87, 66, 34);
+}
+
+.one{
+    border: 2px solid rgb(87, 66, 34);
+    border-radius: 10px;
+    width: 200px;
+}
+
+.i{
+    position: relative;
+    left: 43px;
+    bottom: 20px;
+}
+
+.sum{
+    color: red;
+    position: relative;
+    bottom: 25px;
+    left: 20px;
+}
+
+.buy{
+    background-color: green;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    width: 150px;
+    height: 34px;
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+}
+
+header h1{
+    display: flex;
+    text-align: end;
+    justify-content: space-around;
+    right: 0;
+    font-size: 20px;
+}
+
+.big{
+    display: flex;
+    align-items: end;
+    column-gap: 30px;
+}
+
+.oypan{
+    position: relative;
+    left: 20px;
+    top: 4px ;
+}
+
+.nn{
+    position: relative;
+    left: 27px;
+    bottom: 18px;
+}
+
+img{
+    border-radius: 6px;
+}
+
+.te{
+    height: 200px;
+    width: 200px;
+    border-bottom: 2px solid rgb(87, 66, 34);
+}
+
+.im{
+    position: relative;
+    left: 60px;
+    bottom: 18px;
+}
